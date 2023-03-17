@@ -12,6 +12,6 @@
 [![Blog](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-DV&layout=compact)](https://github.com/Brunno-DV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-DV&layout=compact&langs_count=8&theme=dracula&hide=cython)
 
 Seeking part of the knowledge dispersed by society!!!
