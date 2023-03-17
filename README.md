@@ -10,5 +10,8 @@
 [![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-DV&layout=compact)](https://github.com/Brunno-DV/github-readme-stats)
 
 Seeking part of the knowledge dispersed by society!!!
